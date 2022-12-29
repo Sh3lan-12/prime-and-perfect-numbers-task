@@ -1,0 +1,15 @@
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\bin\Debug\net6.0\perfect numbers.exe
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\bin\Debug\net6.0\perfect numbers.deps.json
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\bin\Debug\net6.0\perfect numbers.runtimeconfig.json
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\bin\Debug\net6.0\perfect numbers.dll
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\bin\Debug\net6.0\perfect numbers.pdb
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\obj\Debug\net6.0\perfect numbers.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\obj\Debug\net6.0\perfect numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\obj\Debug\net6.0\perfect numbers.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\obj\Debug\net6.0\perfect numbers.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\obj\Debug\net6.0\perfect numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\obj\Debug\net6.0\perfect numbers.dll
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\obj\Debug\net6.0\refint\perfect numbers.dll
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\obj\Debug\net6.0\perfect numbers.pdb
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\obj\Debug\net6.0\perfect numbers.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\Program projects\CONSOLE APPS\perfect numbers\perfect numbers\obj\Debug\net6.0\ref\perfect numbers.dll
